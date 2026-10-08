@@ -11,4 +11,4 @@ The University of Texas at Austin. I am an active contributor to
 - 💻 Languages: C, C++, Python, Java, JavaScript, TypeScript
 - ☁️ Interests: Distributed Systems, Databases, and Cloud Infrastructure
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chang-yen-li)
-- 📄 [Download my resume](./assets/Brian_Li_Resume.pdf)
+- 📄 [My Resume](./assets/ChangyenLi.pdf)
